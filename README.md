@@ -10,8 +10,6 @@ Shadow-Mac is the most hi-tech Mac Modifier. Shadow-Mac is a custom Mac Modifier
 
 ```
 https://support.apple.com/en-us/HT201250 (MacOS Time Machine)
-https://rufus.ie/
-https://www.balena.io/etcher/
 https://www.gitkraken.com/
 https://www.vmware.com/products/workstation-pro.html
 https://www.parallels.com/products/desktop/
