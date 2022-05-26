@@ -1,6 +1,6 @@
 # Shadow-Mac
 
-Shadow-Mac is the most hi-tech Mac Modifier. Shadow-Mac is a custom Mac Modifier and is part of the larger ShadowSecuritySuite, Shadow-Mac allows you to run all you to run all your favortie hacking tools under Mac in a fast, safe. easy and efficient manner.
+Shadow-Mac is the most innovative Mac Modifier. Shadow-Mac is a custom Mac Modifier and is part of the larger ShadowSecuritySuite, Shadow-Mac allows you to run all you to run all your favortie hacking tools under Mac in a fast, safe. easy and efficient manner.
 
 ㊙️ "The more silent you are, the more you can silence." ㊙️
 
