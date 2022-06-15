@@ -14,6 +14,7 @@ https://www.gitkraken.com/
 https://www.vmware.com/products/workstation-pro.html
 https://www.parallels.com/products/desktop/
 https://www.virtualbox.org/
+https://code.visualstudio.com/
 ```
 # Requesting a feature
 
